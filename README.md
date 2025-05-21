@@ -36,7 +36,6 @@
   <a href="https://instagram.com/golu.kr_" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
   </a>
-  <a href="https://www.leetcode.com/shivam210" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
   </a>
 </p>
